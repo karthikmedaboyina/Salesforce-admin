@@ -1,4 +1,4 @@
-This project report outlines the development of a Library Management System (LMS) built on Salesforce, a leading cloud-based platform widely used to manage data and automate business processes.
+This project report outlines the development of a Library Management System (LMS) built on Salesforce Platform, a leading cloud-based platform widely used to manage data and automate business processes.
 The primary objective of the system is to simplify and automate routine library operations that are traditionally handled manually. The LMS supports:
 •	Tracking book availability and issue status in real time
 •	Streamlining the book issuance and return process
